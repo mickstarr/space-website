@@ -24,7 +24,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between">
           <a href="#" className="flex items-center gap-2 text-xl font-bold text-white">
             <Satellite className="h-8 w-8 text-emerald-500" />
-            <span>EarthVision</span>
+            <span>SpremtLab</span>
           </a>
 
           {/* Desktop Navigation */}

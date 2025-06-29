@@ -31,7 +31,7 @@ const About: React.FC = () => {
     {
       year: '2010',
       title: 'Company Founded',
-      description: 'EarthVision established with a focus on agricultural remote sensing.'
+      description: 'SpremtLab established with a focus on agricultural remote sensing.'
     },
     {
       year: '2013',
@@ -70,7 +70,7 @@ const About: React.FC = () => {
           </span>
           <h2 className="text-3xl sm:text-4xl font-bold mb-6">Pioneering Space-Based Agricultural Intelligence</h2>
           <p className="max-w-3xl mx-auto text-gray-300 text-lg">
-            Since 2010, EarthVision has been at the forefront of satellite technology, transforming how we monitor and understand Earth's agricultural landscapes.
+            Since 2010, SpremtLab has been at the forefront of satellite technology, transforming how we monitor and understand Earth's agricultural landscapes.
           </p>
         </div>
 

@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center gap-2 text-xl font-bold mb-6">
               <Satellite className="h-8 w-8 text-emerald-500" />
-              <span>EarthVision</span>
+              <span>SpremtLab</span>
             </div>
             <p className="text-gray-400 mb-6">
               Advanced satellite imagery systems for precision agriculture and environmental monitoring.
@@ -75,7 +75,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <Mail className="h-5 w-5 text-emerald-500 mr-3 mt-0.5" />
-                <span className="text-gray-400">contact@earthvision.tech</span>
+                <span className="text-gray-400">contact@spremtlab.tech</span>
               </li>
               <li className="flex items-start">
                 <Phone className="h-5 w-5 text-emerald-500 mr-3 mt-0.5" />
@@ -97,7 +97,7 @@ const Footer: React.FC = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} EarthVision Technologies. All rights reserved.
+            &copy; {new Date().getFullYear()} SpremtLab Technologies. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <a href="#" className="text-gray-500 hover:text-emerald-400 text-sm">Privacy Policy</a>
